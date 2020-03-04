@@ -59,6 +59,8 @@ public class Helper {
 		for (String clave: nuevoMap.keySet())
 			System.out.println(nuevoMap.get(clave));
 			System.out.println("Hola");
+			System.out.println("Adios");
+			System.out.println("JAJAJA");
 		
 		
 		
